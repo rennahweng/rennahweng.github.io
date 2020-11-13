@@ -1,37 +1,13 @@
-## Welcome to GitHub Pages
+# Hiya 👋 Welcome to Rennah's GitHub Pages
+-----
+## A little bit about me:
+👧🏻 Pronouns: she/her/hers<br>
+💖 Great passion for social impact tech, accessible tech, entrepreneurship, and diversity & inclusion<br>
+📚 A junior at Columbia University studying computer science and entrepreneurship<br>
+👩🏻‍💻 I'm currently building Venture Capital tools, full-stack dev, mobile app dev, and data science<br>
+🌱 I’m currently learning web dev, UI/UX design, and product management<br>
+⚡ Fun fact: I'm a new yorker who has never traveled anywhere outside of new york (a very sad fact).<br>
 
-You can use the [editor on GitHub](https://github.com/rennahweng/rennahweng.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/rennahweng/rennahweng.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+## Open Source Projects
+### [Two Bias](https://github.com/rennahweng/two-bias)
+A chrome extension that investigates news articles from two opposite bias of an event, an issue, or a story by suggesting news articles from both sides to present a variety of biased perspectives on the event to readers, who should be more aware of the "reality" each bia perceives.

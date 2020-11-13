@@ -2,3 +2,5 @@ title: Rennah Weng
 description: CS @ Columbia, Head of Engineering @ Dorm Room Fund
 logo: /img/rennah_profile.png
 theme: jekyll-theme-minimal
+plugins:
+  - jekyll-octicons

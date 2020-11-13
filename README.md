@@ -13,7 +13,8 @@
 ## Open Source Projects
 ### [Two Bias](https://github.com/rennahweng/two-bias)
 A chrome extension that investigates news articles from two opposite bias of an event, an issue, or a story by suggesting news articles from both sides to present a variety of biased perspectives on the event to readers, who should be more aware of the "reality" each bia perceives.
-{% octicon alert height:32 class:"right left" aria-label:hi %}
+
+{% octicon repo-forked height:16 %} {% octicon star-fill height:16 %}
 
 ---
 
